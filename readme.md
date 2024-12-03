@@ -1,6 +1,8 @@
 # Solana Wallet Hunter: Wallet Discovery and Metrics Tool
 
 ## Overview
+![image](https://github.com/user-attachments/assets/1c41f262-f50b-4fb5-a915-2dac593f352c)
+
 The **Solana Wallet Hunter** is a robust tool designed to help users discover and analyze wallets interacting with specific Solana tokens. Whether you're tracking token activity, identifying individual traders, or diving into wallet metrics, this tool makes wallet discovery seamless and insightful.
 
 ---
@@ -86,7 +88,9 @@ The **Solana Wallet Hunter** is a robust tool designed to help users discover an
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for feedback and feature requests.
 
----
+## Support
+Built by t.me/WaveyHeat
+For questions or inquiries, feel free to reach out via the provided link.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
